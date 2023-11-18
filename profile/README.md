@@ -2,7 +2,7 @@
 
 ## Monetize your content with Smart Posts
 
-Transforming SocialFi into a blockchain-powered revenue stream. Putting creators in control, BLOOM enables post promotion with smart posts, allowing users to mirror posts and earn rewards on Bloom-supported dApps.  
+Transforming SocialFi into a blockchain-powered revenue stream. Putting creators in control, BLOOM enables post promotion with smart posts, allowing users to mirror posts and earn rewards on Bloom-supported dApps.
 
 ## **Description**
 
@@ -17,6 +17,8 @@ BLOOM revolutionizes SocialFi by offering creators unprecedented control over po
 ## **Disclaimer:**
 
 Due to a missing release of an essential component within the Lens Protocol Smart Post feature, the BLOOM project could not be completed as planned at ETH Istanbul. The Lens Team, has provided insight into the issue, indicating that the open actions are not yet automatically indexed by the API.
+
+**Web application: https://frontend-kappa-lovat-67.vercel.app/**
 
 ## Application Architecture Diagram
 
